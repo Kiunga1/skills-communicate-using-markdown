@@ -28,6 +28,7 @@ This is a sample Markdown document to demonstrate basic formatting.
 ## Links and Images
 - [Visit Google](https://www.google.com/)
 - ![Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png)
+- ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## Code
 Inline code: `print("Hello, Markdown!")`
