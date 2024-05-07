@@ -38,3 +38,8 @@ Code block:
 def greet():
     print("Hello, Markdown!")
 greet()
+```
+```
+$ git init
+Initialized empty Git repository in Users/skills/Projects/recipe-repository/.git/
+```
