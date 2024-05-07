@@ -24,7 +24,12 @@ This is a sample Markdown document to demonstrate basic formatting.
 1. First item
 2. Second item
 3. Third item
-
+   
+### Task list
+- [x] First item complete
+- [x] Second item complete
+- [ ] Third item is not complete
+      
 ## Links and Images
 - [Visit Google](https://www.google.com/)
 - ![Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png)
